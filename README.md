@@ -70,8 +70,15 @@ AWS_ACCESS_KEY_ID=
 
 AWS_SECRET_ACCESS_KEY=
 
-AWS_REGION = us-east-1
+AWS_REGION = ca-central-1 / or any region you are working from /
 
 AWS_ECR_LOGIN_URI = demo>>  566373416292.dkr.ecr.ap-south-1.amazonaws.com
 
 ECR_REPOSITORY_NAME = simple-app
+
+# Tutorial for the WebApp Deployment using AWS:
+
+Just access the link to watch the training of the model and running of the WebApp, Thankyou!
+
+https://github.com/user-attachments/assets/7f6e1c8e-a09e-4994-98f1-bae534708fa1
+
