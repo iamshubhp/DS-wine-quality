@@ -18,10 +18,10 @@ class DataValidationConfig:
     all_schema: dict
 
 
-# @dataclass(frozen=True)
-# class DataTransformationConfig:
-#     root_dir: Path
-#     data_path: Path
+@dataclass(frozen=True)
+class DataTransformationConfig:
+    root_dir: Path
+    data_path: Path
 
 
 # @dataclass(frozen=True)
