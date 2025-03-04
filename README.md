@@ -74,7 +74,7 @@ AWS_REGION = ca-central-1 / or any region you are working from /
 
 AWS_ECR_LOGIN_URI = 
 
-ECR_REPOSITORY_NAME = simple-app
+ECR_REPOSITORY_NAME = mplroject
 
 # Tutorial for the WebApp Deployment using AWS:
 
